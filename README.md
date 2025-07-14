@@ -208,7 +208,7 @@ Let’s improve this API together!
 
 Building clean, efficient, and developer-friendly tools.
 
-- GitHub: [@arupa444](https://github.com/arupa444)
+- GitHub: [@arupa444](https://github.com/Satya3133)
 - LinkedIn: [linkedin.com/in/arupa-nanda-swain](https://www.linkedin.com/in/arupa-nanda-swain)
 
 ---
