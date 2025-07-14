@@ -209,7 +209,7 @@ Let’s improve this API together!
 Building clean, efficient, and developer-friendly tools.
 
 - GitHub: [@Satya3133](https://github.com/Satya3133)
-- LinkedIn: [linkedin.com/in/arupa-nanda-swain](https://www.linkedin.com/in/arupa-nanda-swain)
+- LinkedIn: [linkedin.com/in/satya-ranjan-behera](https://www.linkedin.com/in/satya-ranjan-behera)
 
 ---
 
