@@ -30,7 +30,7 @@ A simple and powerful Patient Management System built with **FastAPI** and **Pyd
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/arupa444/fastAPI.git
+   git clone https://github.com/Satya3133/API-for-patient-management.git
    cd fastAPI
    ```
 2. **Create virtual environment**
@@ -48,8 +48,8 @@ A simple and powerful Patient Management System built with **FastAPI** and **Pyd
    ```
 5. **Access the app**
    ```bash
-   Swagger UI: your_local_host/docs # for ex mine its http://127.0.0.1:8000/docs
-   ReDoc: your_local_host/redoc # for ex mine its http://127.0.0.1:8000/redoc
+   Swagger UI: your_local_host/docs # for ex mine, its http://127.0.0.1:8000/docs
+   ReDoc: your_local_host/redoc # for ex mine, its http://127.0.0.1:8000/redoc
    ```
 
 ## 🧪 API Endpoints
